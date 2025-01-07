@@ -1,0 +1,92 @@
+Rank,Country,Country Code,Gold,Silver,Bronze,Total
+1,United States,US,40,44,42,126
+2,China,CHN,40,27,24,91
+3,Japan,JPN,20,12,13,45
+4,Australia,AUS,18,19,16,53
+5,France,FRA,16,26,22,64
+6,Netherlands,NED,15,7,12,34
+7,Great Britain,GBG,14,22,29,65
+8,South Korea,KOR,13,9,10,32
+9,Italy,ITA,12,13,15,40
+10,Germany,GER,12,13,8,33
+11,New Zealand,NZ,10,7,3,20
+12,Canada,CAN,9,7,11,27
+13,Uzbekistan,UZB,8,2,3,13
+14,Hungary,HUN,6,7,6,19
+15,Spain,SPA,5,4,9,18
+16,Sweden,SWE,4,4,3,11
+17,Kenya,KEN,4,2,5,11
+18,Norway,NOR,4,1,3,8
+19,Ireland,IRE,4,0,3,7
+20,Brazil,BRZ,3,7,10,20
+21,Iran,IRN,3,6,3,12
+22,Ukraine,UKR,3,5,4,12
+23,Romania,ROM,3,4,2,9
+24,Georgia,GEO,3,3,1,7
+25,Belgium,BEL,3,1,6,10
+26,Bulgaria,BUL,3,1,3,7
+27,Serbia,SER,3,1,1,5
+28,Czech Republic,CZE,3,0,2,5
+29,Denmark,DEN,2,2,5,9
+30,Azerbaijan,AZE,2,2,3,7
+30,Croatia,CRO,2,2,3,7
+32,Cuba,CUB,2,1,6,9
+33,Bahrain,BHR,2,1,1,4
+34,Slovenia,SLO,2,1,0,3
+35,Chinese Taipei,TPE,2,0,5,7
+36,Austria,AUT,2,0,3,5
+37,Hong Kong,HK,2,0,2,4
+37,Philippines,PHI,2,0,2,4
+39,Algeria,ALG,2,0,1,3
+39,Indonesia,IDN,2,0,1,3
+41,Israel,ISR,1,5,1,7
+42,Poland,POL,1,4,5,10
+43,Kazakhstan,KAZ,1,3,3,7
+44,Jamaica,JAM,1,3,2,6
+44,South Africa,SA,1,3,2,6
+44,Thailand,THA,1,3,2,6
+47,Ethiopia,ETH,1,3,0,4
+48,Switzerland,SWI,1,2,5,8
+49,Ecuador,ECU,1,2,2,5
+50,Portugal,POR,1,2,1,4
+51,Greece,GRE,1,1,6,8
+52,Argentina,ARG,1,1,1,3
+52,Egypt,EGY,1,1,1,3
+52,Tunisia,TUN,1,1,1,3
+55,Botswana,BOT,1,1,0,2
+55,Chile,CHI,1,1,0,2
+55,St Lucia,LCA,1,1,0,2
+55,Uganda,UGA,1,1,0,2
+59,Dominican Republic,DOM,1,0,2,3
+60,Guatemala,GUA,1,0,1,2
+60,Morocco,MOR,1,0,1,2
+62,Dominica,DMA,1,0,0,1
+62,Pakistan,PKN,1,0,0,1
+64,Turkey,TUR,0,3,5,8
+65,Mexico,MEX,0,3,2,5
+66,Armenia,ARM,0,3,1,4
+66,Colombia,COL,0,3,1,4
+68,North Korea,PRK,0,2,4,6
+68,Kyrgyzstan,KGZ,0,2,4,6
+70,Lithuania,LTU,0,2,2,4
+71,India,IND,0,1,5,6
+72,Moldova,MDA,0,1,3,4
+73,Kosovo,KOS,0,1,1,2
+74,Cyprus,CYP,0,1,0,1
+74,Fiji,FIJ,0,1,0,1
+74,Jordan,JOR,0,1,0,1
+74,Mongolia,MGL,0,1,0,1
+74,Panama,PAN,0,1,0,1
+79,Tajikistan,TJK,0,0,3,3
+80,Albania,ALB,0,0,2,2
+80,Grenada,GRN,0,0,2,2
+80,Malaysia,MAS,0,0,2,2
+80,Puerto Rico,PUR,0,0,2,2
+84,Cape Verde,CPV,0,0,1,1
+84,Ivory Coast,CIV,0,0,1,1
+84,Refugee Olympic Team,EOR,0,0,1,1
+84,Peru,PER,0,0,1,1
+84,Qatar,QAT,0,0,1,1
+84,Singapore,SIN,0,0,1,1
+84,Slovakia,SVK,0,0,1,1
+84,Zambia,ZAM,0,0,1,1
